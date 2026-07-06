@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
@@ -114,13 +114,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Farah Husaini - Program Manager"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Certified PMP & CSM | PMO/Project Manager | Building toward PgMP"
   location         : "Somewhere"
-  email            :
+  email            : "nurfarah.husaini@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/farah-husaini/"
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       # url: "mailto:your.name@email.com"

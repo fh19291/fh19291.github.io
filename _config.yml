@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "sunrise" # "default", "air", "aqua", "contrast", "da
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+title                    : "Program Manager Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Farah Husaini - Program Manager Portfolio"
+  name             : "Farah Husaini"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Certified PMP & CSM | PMO/Project Manager | Building toward PgMP"
   location         : "Remote"

@@ -1,9 +1,14 @@
 # main links
 main:
-    title: "/case-studies/charter-governance/"
-    url: https://fh19291.github.io/case-studies/charter-governance/
-    title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+     - title: "Case Studies"
+       url: /case-studies/
+       children:
+         - title: "Program Charter & Governance"
+           url: /case-studies/charter-governance/
+         - title: "Portfolio Health Dashboard"
+           url: /case-studies/dashboard/
+  # - title: "About"
+  # - url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"

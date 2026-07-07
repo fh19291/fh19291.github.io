@@ -1,10 +1,10 @@
-   ---
+---
    title: "Case Study 1: Program Charter & Governance Setup"
    layout: single
    toc: true
    toc_label: "On This Page"
    permalink: /case-studies/charter-governance/
-   ---
+---
 
    Situation
 A regional retail company was consolidating three legacy inventory systems into a single platform across 12 stores and a central warehouse. The initiative touched Finance, Store Operations, and IT simultaneously — three workstreams with different priorities, no shared governance model, and a history of projects stalling because no one had clear decision rights. My task was to stand up the program's governance structure before any execution work began, so that scope, accountability, and reporting cadence were locked in from day one.

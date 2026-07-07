@@ -1,9 +1,9 @@
 ---
-   title: "Case Study 1: Program Charter & Governance Setup"
-   layout: single
-   toc: true
-   toc_label: "On This Page"
-   permalink: /case-studies/charter-governance/
+title: "Case Study 1: Program Charter & Governance Setup"
+layout: single
+toc: true
+toc_label: "On This Page"
+permalink: /case-studies/charter-governance/
 ---
 
    Situation
